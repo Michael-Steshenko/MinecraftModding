@@ -1,4 +1,4 @@
-# MinecraftModding
+# Minecraft Modding
 This is repo is, at least for now, for personal use, I will be documanting stuff that I find useful for minecraft modding.
 I am using Forge version: TODO: add
 Minecraft version: TODO: add
